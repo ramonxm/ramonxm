@@ -1,9 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ramonxm/ramonxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Ramon Xavier
+### My name is Ramon Xavier
 
 I'm A Computer Engineer Student, I currently study the entire JS stack 💻
 
