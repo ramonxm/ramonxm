@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ramon">
 
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ramon Xavier</h1>
+
 <p align="left">
-  <strong> Hello, i'm Ramon, </strong> student of Computer Engineering. Developing for the web as a front-end.
+  Student of Computer Engineering. Developing for the web as a front-end.
 </p>
 
 <p align="left">
