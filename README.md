@@ -1,13 +1,18 @@
-# Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ramon">
 
+#
+<h1 align="left">
+ Welcome to my Github!
+<h1>
 
-### My name is Ramon Xavier
+<p align="left">
+Hello, i'm Ramon, student of Computer Engineering. Developing for the web as a front-end.
+</p>
 
-I'm A Computer Engineer Student, I currently study the entire JS stack 💻
+<p align="left">
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
-- 📍 From RJ living in Duque de Caxias 
+🦄 Techs: <strong>HTML5, CSS3, JavaScript, Sass, Reactjs and UI/UX Design.</strong>
+</p>
 
 Reach me out 👇🏼
 
