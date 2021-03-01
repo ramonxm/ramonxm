@@ -1,14 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ramon">
 
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ramon Xavier</h1>
+<h1 align="center">Hey, what's up?<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ramon Xavier</h1>
 
 <p align="left">
-  Student of Computer Engineering. Developing for the web as a front-end.
+I am a Front-end developer, student of Computer Engineering at CEFET / RJ.
+I am passionate about Javascript + Reactjs, I love building interfaces and using fundamentals of UX Design.
+I am interested in UI Design and have 8 years of experience in Graphic Design.
 </p>
 
 <p align="left">
 
-🦄 Techs: <strong>HTML5, CSS3, JavaScript, Sass, Reactjs and UI/UX Design.</strong>
+🦄 Techs: <strong>HTML5,
+  CSS3,
+  JavaScript,
+  Sass,
+  Reactjs and UI/UX Design.</strong>
 </p>
 
 Reach me out 👇🏼
