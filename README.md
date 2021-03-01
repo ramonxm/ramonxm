@@ -3,7 +3,7 @@
 <h1 align="center">Hey, what's up?<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ramon Xavier</h1>
 
 <p align="left">
-I am a Front-end developer, student of Computer Engineering at CEFET / RJ.
+I am a Front-end developer Student, student of Computer Engineering at CEFET / RJ.
 I am passionate about Javascript + Reactjs, I love building interfaces and using fundamentals of UX Design.
 I am interested in UI Design and have 8 years of experience in Graphic Design.
 </p>
