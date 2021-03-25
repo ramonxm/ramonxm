@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ramon">
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616675745151.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ramon">
 
 <h1 align="center">Hey, what's up?<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ramon Xavier</h1>
 
