@@ -1,5 +1,5 @@
 
-# Hi, Ramon Xavier aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Olá, Ramon Xavier aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 Sou estudante de desenvolvimento Front-end, aluno de Engenharia da Computação no CEFET / RJ.
 Sou apaixonado por Javascript + Reactjs, adoro construir interfaces e usar fundamentos de UX Design.
