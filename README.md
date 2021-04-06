@@ -13,8 +13,8 @@ Estou interessado em UI Design e tenho 8 anos de experiência em Design Gráfico
 
  Onde me encontrar  👇
  
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonxm/)
-![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ramonxm/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonxm/)](https://www.linkedin.com/in/ramonxm/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ramonxm/)](https://www.instagram.com/ramonxm/)
 
 
 **🚀💻 Technologies & Tools**
