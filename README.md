@@ -8,10 +8,10 @@ I am interested in UI Design and have 8 years of experience in Graphic Design.
    🌎 **"The art of programming consists of organizing and mastering complexity."** 🧠
 
 
-- 📫 How **[entrar](mailto:ramon1234rxm@gmail.com)** contact with me **[ramon1234rxm@gmail.com](mailto:ramon1234rxm@gmail.com).**
+- 📫 How to **[contact](mailto:ramon1234rxm@gmail.com)** me **[ramon1234rxm@gmail.com](mailto:ramon1234rxm@gmail.com).**
 
 
- Onde me encontrar  👇
+ Reach me out  👇
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonxm/)](https://www.linkedin.com/in/ramonxm/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ramonxm/)](https://www.instagram.com/ramonxm/)
