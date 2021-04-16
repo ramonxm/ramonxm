@@ -1,3 +1,5 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ramonxm&repo=ramonxm&countColorcountColor)
+
 
 # Hi, Ramon Xavier here! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
@@ -9,6 +11,9 @@ I am interested in UI Design and have 8 years of experience in Graphic Design.
 
 
 - 📫 How to **[contact](mailto:ramon1234rxm@gmail.com)** me **[ramon1234rxm@gmail.com](mailto:ramon1234rxm@gmail.com).**
+
+
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 
  Reach me out  👇
