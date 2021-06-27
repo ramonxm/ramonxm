@@ -30,8 +30,4 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramonxm&show_icons=tru&theme=dracula" alt="Status" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonxm&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=ramonxm&show_icons=tru&theme=dracula" alt="Status" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonxm&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
