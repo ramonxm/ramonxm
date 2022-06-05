@@ -37,3 +37,8 @@ Full Stack Developer, based on ReactJS, Typescript and NodeJS. I'm enthusiastic 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramonxm&show_icons=true&theme=dracula" min-width="400px" max-width="400px" width="400px" alt="lucasf5" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramonxm&theme=dracula" min-width="400px" max-width="400px" width="400px" alt="ramonxm" /></p>
 </section>
 
+<br/>
+<section align="center">
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ramonxm/ramonxm/blob/main/devcard.svg" width="400" alt="Ramon Xavier's Dev Card"/></a>
+</section>
+
