@@ -90,3 +90,7 @@ Full Stack Developer, based on ReactJS, Typescript and NodeJS. I'm enthusiastic 
 
 
 
+<br/>
+<section align="center">
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ramonxm/ramonxm/blob/main/devcard.svg" width="400" alt="Ramon Xavier's Dev Card"/></a>
+</section>
