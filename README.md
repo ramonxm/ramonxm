@@ -84,8 +84,7 @@ Full Stack Developer, based on ReactJS, Typescript and NodeJS. I'm enthusiastic 
 <br>
 
 <section align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonxm&show_icons=true&theme=dracula&layout=compact" alt="lucasf5" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramonxm&show_icons=true&theme=dracula" min-width="400px" max-width="400px" width="400px" alt="lucasf5" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramonxm&theme=dracula" min-width="400px" max-width="400px" width="400px" alt="ramonxm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramonxm&theme=dracula" min-width="400px" max-width="400px" width="400px" alt="ramonxm" /></p>
 </section>
 
 
