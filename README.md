@@ -83,9 +83,33 @@ Full Stack Developer, based on ReactJS, Typescript and NodeJS. I'm enthusiastic 
 
 <br>
 
-<section align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramonxm&theme=dracula" min-width="400px" max-width="400px" width="400px" alt="ramonxm" /></p>
-</section>
+<p align="center">
+
+<a href="https://github.com/ramonxm?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ramonxm&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/ramonxm?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ramonxm&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramonxm&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+<p align="center">
+<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
+<a href="https://github.com/ramonxm?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ramonxm&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+</p>
+
+<p align="center">
+<a href="https://gist.github.com/ramonxm"><img src="https://profile-counter.glitch.me/{ramonxm}/count.svg" alt="ramonxm :: Visitor's Count" /></a>
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
+
 
 
 
