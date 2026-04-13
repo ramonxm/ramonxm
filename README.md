@@ -1,9 +1,7 @@
-## 👋 Hi there, I'm Ramon Xavier!
+### Hey, I'm Ramon 👋
 
-### 🎓 About me:
+Senior Software Engineer at Globo, working mostly with React, React Native, TypeScript and Node.js.
 
-I’m a seasoned full-stack developer with over 5 years of experience, specializing in React, React Native, and Node.js.
+I spend a lot of time thinking about mobile architecture, offline-first systems, and how to keep large codebases from becoming a nightmare to maintain.
 
-💬 Feel free to reach out for collaborations or just a tech chat!<br/>
-📧 Email me at ramon1234rxm@gmail.com<br/>
-🔗 [Linkedin profile](https://linkedin.com/in/ramonxm).<br/>
+📧 contatoramonxavier@gmail.com · [LinkedIn](https://linkedin.com/in/ramonxm)
